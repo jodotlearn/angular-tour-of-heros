@@ -17,4 +17,4 @@ ___
     ng generate component heroes
     ```
   - display the HeroesComponent
-
+  - create hero class and show the object
