@@ -18,3 +18,4 @@ ___
     ```
   - display the HeroesComponent
   - create hero class and show the object
+  - applied the uppercasePipe to format hero name
