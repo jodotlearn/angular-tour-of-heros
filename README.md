@@ -22,3 +22,4 @@ ___
   - let hero name editable
     - two-way data binding (ngModel)
   - create mock heroes, style and display heroes
+  - show detail when click one of the hero list
