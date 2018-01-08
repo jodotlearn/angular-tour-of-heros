@@ -24,3 +24,6 @@ ___
 - create mock heroes, style and display heroes
   - show detail when click one of the hero list
 - create hero-detail component
+  - pass the hero property from heros to hero-detail
+    import step: add @Input() hero property to hero-detail
+  - show detail when click one of the master hero list
