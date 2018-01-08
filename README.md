@@ -19,3 +19,5 @@ ___
   - display the HeroesComponent
   - create hero class and show the object
   - applied the uppercasePipe to format hero name
+  - let hero name editable
+    - two-way data binding (ngModel)
